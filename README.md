@@ -18,7 +18,7 @@ Numéro des SAE commençant par :
 * 4XX : Fait durant le deuxième semestre de la 2ème année  
 * 5XX : Fait durant le premier semestre de la 3ème année  
 * 6XX : Fait durant le deuxième semestre de la 3ème année  
-## Authors
+## Auteur
 
 - [@MaximeNGY](https://www.github.com/MaximeNGY)
 
