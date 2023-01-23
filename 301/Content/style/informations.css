@@ -1,0 +1,43 @@
+
+.droite{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 40%;
+    gap: 20px;
+}
+.corp{
+    gap: 17%;
+}
+body{
+    font-family: "SF Pro Display";
+}
+.droite ul{
+    display: flex;
+    flex-direction: column;
+    align-self: start;
+    text-align: start;
+    gap: 20px;
+}
+.historique{
+    background-color: #D9D9D9;
+    width: 100%;
+    overflow-y: scroll;
+    border-radius: 20px;
+    height: 50vh;
+    font-size: 20px;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+strong a{
+    color: #1498FD;
+    text-decoration: underline;
+}
+.lignehisto{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 5px;
+}
+h1{
+    color: #1498FD;
+    text-decoration: underline;
+}

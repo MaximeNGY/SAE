@@ -1,0 +1,71 @@
+body {
+    font-family: SF Pro Display;
+    height: 100vh;
+    width: 100%;
+}
+.form{
+    background-color: #66D0D7;
+    width: 30%;
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    gap: 10px;
+    font-size: 20px;
+}
+.form input{
+    margin-bottom: 5px;
+    width: 60%;
+    height: 40px;
+    font-size: 25px;
+}
+form input[type = "submit"]{
+    height: 50px;
+    border: 0;
+    outline: 0;
+    background-color:#07DA3F;
+    color: #FFF;
+    border-radius: 20px;
+    font-size: 20px;
+}
+form{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+
+label{
+    margin-top: 5px;
+}
+input{
+    border: 0;
+    border-radius: 30px;
+    text-align: center;
+    height: 30px;
+}
+h1{
+    text-align: center;
+    margin-top: 5%;
+    font-size: 30px;
+    font-weight: bold;
+    color: #007BFF;
+
+}
+h2{
+    margin-bottom: 15px;
+    margin-left: 10px;
+    text-align: center;
+}
+
+@media (max-width: 1300px) {
+    .form{
+        background-color: #66D0D7;
+        width: 60%;
+
+    }
+    .form input, h2{
+        font-size: 20px;
+    }
+}

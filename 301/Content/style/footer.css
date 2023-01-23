@@ -1,0 +1,22 @@
+footer{
+    background-color: #d9d9d9;
+    color: white;
+    padding: 20px;
+    position: sticky;
+    left: 100%;
+    top: 100%;
+    margin-top: 20px;
+}
+
+footer a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    margin-left: 10px;
+}
+
+.footer-bg {
+    display: flex;
+    justify-content: center;
+    background-color: #d9d9d9;
+    padding: 20px;
+}

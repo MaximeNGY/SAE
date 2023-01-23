@@ -1,0 +1,86 @@
+.logo{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top:0px;
+    background-color: #F5F5F5;
+}
+a{
+    text-decoration: none;
+    color: #000000;
+}
+#droite img{
+    height: 20px;
+    margin-left: 10px;
+}
+#droite{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    margin-right: 20px;
+}
+.navbar{
+    position: sticky;
+    padding: 30px;
+    background-color: #1498FD
+}
+#droite a{
+    margin-left: 10px;
+}
+.supression,.Renitial{
+    padding: 15px;
+    border-radius: 30px;
+    text-align: center;
+}
+.inscription,.connexion,.deconnexion,.accueil,.EspaceC,.validation{
+    border: 0;
+    border-radius: 30px;
+    padding: 15px 0px;
+    width: 10%;
+    text-align: center;
+    font-family: SF Pro Display;
+    font-size: 16px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.connexion{
+    background-color: #D9D9D9;
+    color: #000;
+}
+.EspaceC,.accueil,.Renitial{
+    background-color: #007BFF;
+    color: #FFF;
+}
+.deconnexion,.supression{
+    background-color: #E62E2E;
+    color: #FFF;
+}
+
+.inscription{
+    background-color: #2EE65D;
+    color: #000;
+}
+@media (max-width: 1000px) {
+    .navbar{
+        padding: 40px;
+    }
+    #droite{
+        margin-right: -30px;
+    }
+    .logo{
+        height: 120px;
+    }
+    .inscription,.connexion,.deconnexion,.accueil,.EspaceC{
+        padding: 15px 30px;
+        width: auto;
+    }
+}
+@media (max-width: 470px){
+    .logo{
+        opacity: 0%;
+    }
+
+
+}
+
+

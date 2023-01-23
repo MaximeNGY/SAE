@@ -1,0 +1,54 @@
+body{
+    height: 100vh;
+    font-family: SF Pro Display;
+}
+.add{
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+}
+
+.add form{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    padding: 20px;
+    box-shadow: 0 0 50px rgba(0,0,0,0,4);
+    border-radius: 6px;
+
+}
+
+.add form input[type = "file"]{
+    margin-bottom: 10px;
+
+}
+
+.add form input[type = "submit"]{
+    padding: 10px 8px;
+    border: 0;
+    outline: 0;
+    background-color:#07DA3F;
+    color: #FFF;
+    border-radius: 20px;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+.txt{
+    border:0;
+    background-color: #D9D9D9;
+    border-radius: 15px;
+    padding: 10px 15px;
+    font-size: 20px;
+    text-align: center;
+
+}
+.addImg{
+    border: 0;
+    border-radius: 3px;
+    padding: 5px 8px;
+    font-family: SF Pro Display;
+    font-size: medium;
+
+
+}
