@@ -1,6 +1,8 @@
 # Projet SAE
 
-SAE S3.A.01 Développement appli
+## SAE S3.A.01 Développement appli
+
+### Caisse enregistreuse
 
 Lien externe pour accéder au site : https://younescaisseenregistreuse.000webhostapp.com/
 
