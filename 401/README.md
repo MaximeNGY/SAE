@@ -1,3 +1,3 @@
-# SAE 401 : Développement d'application
+# SAE 401 : Développement d'une application
 
 En cours de rédaction...
