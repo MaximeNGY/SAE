@@ -12,6 +12,8 @@ Caisse enregistreuse
 
 Creation du dossier SAE
 
+Utilisation du Model MVC pour la conception du site en PHP.
+
 Création de la classe Model:
 - Implémentation de la fonction getModel().
 - Implémentation de la fonction getRole().
