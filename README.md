@@ -27,7 +27,7 @@ Numéro des SAE commençant par :
 
 - Python
 - Java
-- HTML, CSS, JavaScript
+- HTML, CSS, JavaScript et PHP
 
 
 ## Leçons apprises
